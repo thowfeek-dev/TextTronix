@@ -9,9 +9,9 @@
     <br />
     <a href="#">View Demo</a>
     ·
-    <a href="https://github.com/thowfeeksalim/textTronix/issues">Report Bug</a>
+    <a href="https://github.com/thowfeek-dev/textTronix/issues">Report Bug</a>
     ·
-    <a href="https://github.com/thowfeeksalim/textTronix/issues">Request Feature</a>
+    <a href="https://github.com/thowfeek-dev/textTronix/issues">Request Feature</a>
   </p>
 </p>
 <p align="center">            
@@ -133,7 +133,7 @@ SOFTWARE.
 
 👤 **Thowfeek Salim**
 
-- GitHub: [@Thowfeeksalim](https://github.com/thowfeeksalim)
+- GitHub: [@Thowfeek-dev](https://github.com/thowfeek-dev)
 - Twitter: [@Thowfeeksalim06](https://twitter.com/thowfeeksalim6) 
 - LinkedIn: [Thowfeeksalim](https://www.linkedin.com/in/thowfeek-salim-294760211) 
 
@@ -149,9 +149,9 @@ SOFTWARE.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/thowfeeksalim/textTronix?color=green&style=for-the-badge
-[contributors-url]: https://github.com/thowfeeksalim/textTronix/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/thowfeeksalim/textTronix?style=for-the-ba
+[contributors-shield]: https://img.shields.io/github/contributors/thowfeek-dev/textTronix?color=green&style=for-the-badge
+[contributors-url]: https://github.com/thowfeek-dev/textTronix/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/thowfeek-dev/textTronix?style=for-the-ba
 
 ## Screenshot
 <p align="center">  
